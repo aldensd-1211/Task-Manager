@@ -1,0 +1,13 @@
+.env# Node.js
+node_modules/
+dist/
+.env
+client/.env
+server/.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
